@@ -1,4 +1,1 @@
-jxxghp/moviepilot:latest
---platform=linux/arm64 jxxghp/moviepilot:latest
-nevinee/qbittorrent:latest
 --platform=linux/arm64 nevinee/qbittorrent:latest
