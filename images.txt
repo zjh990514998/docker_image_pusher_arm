@@ -1,1 +1,1 @@
---platform=linux/arm64 nevinee/qbittorrent:latest
+--platform=linux/arm64 linyuan0213/nas-tools:latest
